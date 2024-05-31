@@ -1,2 +1,2 @@
 # ssbonus
-Source
+Open source
